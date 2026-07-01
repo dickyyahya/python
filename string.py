@@ -9,7 +9,7 @@ print(type(data))
 2. dengan menggunakan double quote = "..."
 
 '''
-data = 'Menggunakan single quote'
+data = 'Menggunakan single qu`ote'
 print (data)
 
 data = "menggunakan double quote"
